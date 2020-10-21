@@ -10,9 +10,9 @@ namespace Sprint1
     {
         static void Main(string[] args)
         {
-            test
-                test
-                test
+            Console.WriteLine("Es klappt");
+            Console.ReadLine();
+
 
         }
     }
